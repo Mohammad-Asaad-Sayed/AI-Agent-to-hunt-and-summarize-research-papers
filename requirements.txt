@@ -1,0 +1,7 @@
+streamlit
+arxiv
+python-dotenv
+autogen-agentchat
+autogen-core
+autogen-ext
+openai
